@@ -1,0 +1,161 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.titre {
+    background-color: #0880D6;
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+
+}
+
+h1 {
+    margin-left: 30px;
+}
+
+h2 {
+    background-color: #0880D6;
+    height: 50px;
+    color: white;
+    padding: 12px 0;
+
+}
+
+.text-center {
+    text-align: center;
+}
+
+.form {
+    height: 700px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 560px;
+    gap: 10px;
+    border: solid #0880D6 1px;
+    padding: 21px;
+}
+
+input {
+    height: 45px;
+    width: 518px;
+    color: #4c4c4c;
+}
+
+label {
+    color: #0880D6;
+}
+
+#Bio {
+    width: 518px;
+}
+
+.placer_icilaphoto {
+    text-align: center;
+    padding-top: 30px;
+    width: 518px;
+    height: 123px;
+    border: 1px dashed #4c4c4c;
+    color: black;
+}
+
+.btn_1 {
+    background-color: #0880D6;
+    width: 135px;
+    height: 44px;
+    color: white;
+    border: none;
+    margin-right: 20px;
+}
+
+.btn_2 {
+    background-color: #FF3838;
+    width: 135px;
+    height: 44px;
+    color: white;
+    border: none;
+}
+
+.contenu_2 {
+    height: 653px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 765px;
+    gap: 10px;
+    border: solid #0880D6 1px;
+}
+
+.Conteneur {
+    display: flex;
+    padding-top: 14px;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+.infocontact {
+    background-color: #0880D6;
+    height: 50px;
+    color: white;
+    width: 765px;
+}
+
+img {
+    width: 162px;
+    height: 162px;
+    clip-path: ellipse(50% 50%);
+}
+
+.icon1 {
+    color: #FF3838;
+    margin: 20px;
+}
+
+.icon2 {
+    color: black;
+}
+
+.identite {
+    display: flex;
+    color: black;
+}
+
+.phone {
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bioContact {
+    color: black;
+
+
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 12px;
+    padding: 12px;
+    border: 1px dashed #0880D6;
+}
+
+.identite2 {
+    display: flex;
+    margin-right: 350px;
+
+}
+
+.elementcontact {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
